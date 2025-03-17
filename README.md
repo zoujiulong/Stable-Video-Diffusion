@@ -14,8 +14,8 @@
 3. 下载`img2vid.json`，并将该文件拖拽ComfyUI页面中.
 4. 将下载好的`svd_xt.safetensors`放到文件夹`ComfyUI_windows_portable/ComfyUI/models/checkpoints`.
 5. 在`ComfyUI/custom_nodes`下打开git bash，运行`git clone https://github.com/ltdrdata/ComfyUI-Manager comfyui-manager`下载`ComfyUI-Manager`,将ComfyUI页面中缺失的`custom node`通过Manager安装.
-6. 打开电脑设置,<a href="https://blog.csdn.net/Niuagha/article/details/131784306" target="_blank">调整虚拟内存</a>
-7. 上传图片，调整KSampler参数，执行运行就可以生成视频.(8G显存用1024*576的图片跑14帧视频生成足够了)
+6. 打开电脑设置,<a href="https://blog.csdn.net/Niuagha/article/details/131784306" target="_blank">调整虚拟内存</a>.
+7. 上传图片，调整KSampler参数，执行运行就可以生成视频.(8G显存用1024*576的图片跑14帧视频生成足够了).
 
 
 
